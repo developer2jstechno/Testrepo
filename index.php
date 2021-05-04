@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>Learn PHP</h1>
+    <h1>PHP</h1>
 </body>
 
 </html>
